@@ -19,7 +19,7 @@
 
     <groupId>org.jitsi</groupId>
     <artifactId>jvb-parent</artifactId>
-    <version>2.3-SNAPSHOT</version>
+    <version>2.3-211-g80ae790e</version>
     <packaging>pom</packaging>
 
     <properties>
